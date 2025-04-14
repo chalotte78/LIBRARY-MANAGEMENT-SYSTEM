@@ -1,0 +1,4 @@
+tranhieuvi,123456,Librarian
+reader,read123,Reader
+librarian,lib123,Librarian
+admin,admin123,Admin
